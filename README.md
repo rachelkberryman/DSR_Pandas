@@ -9,9 +9,16 @@ Introduction to Pandas at Data Science Retreat.
   - Conditional selects
 - Aggregation
   - GroupBy
+  - Resample
 - Dealing with datetime data in Pandas
 - Data cleaning 
   - Handling null/missing values
+  - Making new columns
+  - Apply functions
 - Data manipulation
   - Applying helper functions
+- Combining data
+  - Merging
+  - Concatenation
+  
   
